@@ -1,2 +1,2 @@
 # homework1
-Excel - week 1 hw
+Week 1 - Excel hw
